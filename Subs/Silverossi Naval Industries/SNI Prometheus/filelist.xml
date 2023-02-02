@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Unnamed" modversion="1.0.2" corepackage="False" gameversion="0.21.6.0">
-  <Submarine file="%ModDir%/Unnamed.sub" />
+<contentpackage name="SNI Prometheus" modversion="1.0.3" corepackage="False" gameversion="0.21.6.0">
   <Submarine file="%ModDir%/SNI Prometheus.sub" />
 </contentpackage>
